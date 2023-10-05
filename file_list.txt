@@ -1,0 +1,4 @@
+./normal_folder/test
+./linked_folder
+./link_folder_d
+./linked_file.txt
